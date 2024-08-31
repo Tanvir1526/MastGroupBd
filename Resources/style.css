@@ -1,0 +1,19 @@
+body{
+  background: rgb(96,68,255);
+  background: linear-gradient(90deg, rgba(96,68,255,0.2497373949579832) 0%, rgba(49,223,255,0.2497373949579832) 100%);
+}
+.mast-bgcolor {
+  background: rgb(12, 22, 69);
+  background: linear-gradient(90deg, rgba(12, 22, 69, 1) 41%, rgba(38, 71, 255, 1) 100%);
+}
+.carousel-item img {
+  height: 50vh !important;
+  object-fit: cover;
+}
+a {
+  text-decoration: none !important;
+}
+.carousel-caption {
+  background: rgb(0, 3, 131);
+  background: radial-gradient(circle, rgba(0, 3, 131, 0.8547794117647058) 35%, rgba(0, 0, 0, 0.20211834733893552) 72%);
+}
